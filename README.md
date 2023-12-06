@@ -36,8 +36,8 @@ Before you begin, ensure you have met the following requirements:
 To run this project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Open the 'Final_script_HCAI' Jupyter notebook (!Google Colab).
-   2a. Don't forget to change the directory from where you import the model in the Model Loading part.
+2. Open the 'Final_script_HCAI' Jupyter notebook (!Google Colab):
+     2a. Don't forget to change the directory from where you import the model in the Model Loading part.
 4. You will be prompted to input parameters for the music generation. The output will be a new MIDI file that you can listen to and modify.
 
 ### Interacting with the Project

@@ -1,5 +1,5 @@
 # IACH_PROJECT
-## RNN_musicGenerator
+## RNN_MusicGenerator
 * 1. Open this folder (we suggest to open on Google Colab)
 
 * 2. Run the 'Final_script_HCAI' file:

@@ -1,5 +1,10 @@
 # IACH_PROJECT
 # Music Generation with RNN
+### Authors:
+- Alice Mangara
+- Dinis Gonçalves
+- Ivana Kuliš
+  
 This project uses a RNN model to generate new music sequences based on existing ones. It allows users to co-create music by adding or modifying generated bars.
 
 

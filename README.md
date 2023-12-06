@@ -5,7 +5,7 @@ This project uses a machine learning model to generate new music sequences based
 
 * 1. Save this folder (we suggest to open it on Google Colab). Otherwise:
 
-### Installation
+### Installation (Install them using pip)
 * To run this project, you will need the following dependencies:
   - Python 3.7 or higher
   - TensorFlow 2.4.1 or higher
@@ -16,7 +16,6 @@ This project uses a machine learning model to generate new music sequences based
   - Collections
   - Glob
   - Pathlib
-Install them using pip.
 
 ## Usage
 

@@ -1,6 +1,6 @@
 # IACH_PROJECT
 ## RNN_MusicGenerator
-* 1. Open this folder (we suggest to open on Google Colab)
+* 1. Save this folder (we suggest to open it on Google Colab)
 
 * 2. Run the 'Final_script_HCAI' file:
 	2a. Don't forget to change the directory from where you import the model in the Model Loading part.

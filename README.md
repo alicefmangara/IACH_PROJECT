@@ -1,6 +1,6 @@
 # IACH_PROJECT
 # Music Generation with RNN
-This project uses a machine learning model to generate new music sequences based on existing ones. It allows users to co-create music by adding or modifying generated bars.
+This project uses a RNN model to generate new music sequences based on existing ones. It allows users to co-create music by adding or modifying generated bars.
 
 
 * 1. Save this folder (we suggest to open it on Google Colab). Otherwise:
